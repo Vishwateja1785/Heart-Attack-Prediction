@@ -1,4 +1,4 @@
-# Heart Attack Prediction Project
+# Heart Attack Prediction
 
 ## Project Overview
 
